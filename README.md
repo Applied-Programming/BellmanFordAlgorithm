@@ -1,1 +1,1 @@
-# BellmanFordAlgorithm
+# Bellman Ford Algorithm
